@@ -3,4 +3,8 @@ api.env
 data/
 .venv/
 savedParams.pt
-
+Extracted_Images/
+TRAIN_ATTRS.json
+TRAIN_CAPTIONS.json
+WORDFREQ.json
+WORDMAP.json
