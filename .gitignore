@@ -9,3 +9,4 @@ TRAIN_CAPTIONS.json
 WORDFREQ.json
 WORDMAP.json
 embeddings_batch_dict.json
+old_scripts/
