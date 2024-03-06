@@ -18,7 +18,7 @@ This project aims to create an innovative solution for fashion image classificat
 
 ### D. Search Images
 
-- **Description**: This component uses OpenAI to embed search queries and performs a cosine similarity comparison with our database of image captions. It enables us to find and return the top 'x' images that are most relevant to the user's query.
+- **Description**: This component uses OpenAI to embed search queries and performs a cosine similarity comparison with our database of image captions. It enables us to find and return the top 3 images that are most relevant to the user's query.
 
 ### E. GUI for Search Execution
 
