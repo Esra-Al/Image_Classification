@@ -24,7 +24,6 @@ e.g. A search for a strawberry print shirt will turn up a cherry print shirt as 
 
 Building on the flexibility empowered by semantic search, we also allow users to contextualize the relative importance of the different elements of their search. For example, a user envisioning a pink silk cocktail dress to wear at a wedding can indicate that they care somewhat about color, marginally about material and most about the occasion for which it is suited.
 
-&nbsp;
 
 ## CODE
 
@@ -40,7 +39,6 @@ The project includes several key components:
 
 - **Transition to in-house Visual Language Model (VLM):** A significant current focus is enhancing the project's cost-efficiency and independence by moving from using OpenAI to a locally trained Visual Language Model (VLM) for caption generation and embeddings. (`zB_fashion_image_captioner_VLM.ipynb`)
 
-&nbsp;
 
 ## RESULTS
 
