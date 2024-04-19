@@ -46,7 +46,7 @@ To evaluate performance, we selected 20 images at random from a population of 20
 
 Here is an example of a green velvet dress searched by one user. Based on their query text and weighting, it was returned as the top match out of the entire database. The second and third best matches are also dark green velvet dresses, demonstrating that the search returns not just the item of interest, but other similar items.
 
-<img src="figures/fig1.png" width="300" height="200">
+<img src="figures/fig1.png" width="50%">
 
 ![alt text](figures/fig2.png)
 
