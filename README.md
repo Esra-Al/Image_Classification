@@ -50,8 +50,9 @@ Here is an example of a green velvet dress searched by one user. Based on their 
   <img src="figures/fig1.png" width="50%">
 </p>
 
-<img src="figures/fig2.png" width="50%">
-
+<p align="center">
+  <img src="figures/fig2.png" width="70%">
+</p>
 
 Out of 20 searches, 80% of the target items were retrieved in the top 10 results. This is well above the rate at which this would occur by chance (5%). Furthermore, results were similar across two users, suggesting that searchability is not highly dependent on a user’s ability to perfectly describe their item of interest.
 
@@ -60,7 +61,9 @@ We focused on how many items were returned in the top 10 because this correspond
 We were not entirely surprised that not nearly as many items appeared as the very top item in the search results (35%) because, as evident in the green velvet dress example above, user search queries would have to be extremely granular to differentiate between the most similar items in the inventory database.
 
 
-<img src="figures/fig3.png" width="50%">
+<p align="center">
+  <img src="figures/fig3.png" width="50%">
+</p>
 
 
 ## CHALLENGES
@@ -76,8 +79,9 @@ Finally, there were instances where the user used shorthand that may not have  b
 In future some of these challenges can be addressed. For example, color can be made more objective by allowing users to select from a color palette and labeling images based on their color distribution.Additionally, allowing users to provide examples of items they are searching for could give the search algorithm more detailed information to improve its matching accuracy.
 
 
-<img src="figures/fig4.png" width="50%">
-
+<p align="center">
+  <img src="figures/fig4.png" width="70%">
+</p>
 
 ## CONCLUSION
 
