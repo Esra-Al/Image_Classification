@@ -6,7 +6,7 @@ import os
 # we could incorparate batch calling to facilitate parallel processing
 
 def embed_caption_api(text_list, model="text-embedding-3-small"):
-    
+   
     ## access to API key
     notebook_directory = "C:/Users/Esra/Desktop/Deep_Learning/Image_Classification/Fashion/Classify_ThreadUp_Images"
 
@@ -25,8 +25,10 @@ def embed_caption_api(text_list, model="text-embedding-3-small"):
 
     # get embeddings in a batch 
     response = client.embeddings.create(input = text_list, model=model).data
-    
+   
     return [response[i].embedding for i in range(len(response))]
+    
+
 
 
 
