@@ -1,3 +1,5 @@
+![alt text](figures/fig1.png)
+
 # Fashion Image Classification and Captioning
 
 This project aims to create an innovative solution for fashion image classification and captioning, utilizing advanced machine learning techniques and OpenAI's powerful APIs. The project is divided into several key components, each tackling a specific aspect of the challenge.
